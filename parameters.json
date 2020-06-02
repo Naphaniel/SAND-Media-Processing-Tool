@@ -1,0 +1,10 @@
+{
+    "videoName": "",
+    "unprocessedImageDir": "E:/SAND_Y3_PROJECT/Videos/Frames/Resize",
+    "processedImageDir": "E:/SAND_Y3_PROJECT/Videos/Processed/10/Global",
+    "sandModel": "10/ckpt_G",
+    "splitVideoFlag": false,
+    "SANDProcessFlag": true,
+    "combineImagesFlag": true,
+    "imgIndexRange": null
+}
